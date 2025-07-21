@@ -15,8 +15,3 @@ Hey there!👋🏻 I'm Normay R. Pangan, an aspiring front-end developer from th
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=normayp&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=normayp&theme=blue_navy&hide_border=false)<br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
