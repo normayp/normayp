@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hey there!👋🏻 I'm Normay R. Pangan, an aspiring front-end developer from the Philippines, turning ideas into smooth, stunning web experiences. Always curious, always learning, always creating.
 
 
