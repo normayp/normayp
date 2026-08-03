@@ -24,8 +24,8 @@ normay@dev-machine:~$ whoami --info
 Name:      Normay Pangan
 Role:      Computer Engineer | Full-Stack Developer
 Location:  Rizal, Philippines
+Education: BS Computer Engineering
 Status:    Available for opportunities & collaborations
-Focus:     Building responsive web apps & exploring new tech
 ```
 
 ```bash
