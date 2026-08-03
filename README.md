@@ -24,7 +24,7 @@ normay@dev-machine:~$ whoami --info
 Name:      Normay Pangan
 Role:      Computer Engineer | Full-Stack Developer
 Location:  Philippines 🇵🇭
-Status:    🟢 Available for opportunities & collaborations
+Status:    Available for opportunities & collaborations
 Focus:     Building responsive web apps & exploring new tech
 ```
 
@@ -75,9 +75,6 @@ normay@dev-machine:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=normayp&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1a0b2e&title_color=ff6ec4&icon_color=b14eff&text_color=e0d4f7" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normayp&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=ff6ec4&text_color=e0d4f7" height="165"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=normayp&theme=radical&hide_border=true&background=1a0b2e&ring=b14eff&fire=ff6ec4&currStreakLabel=ff6ec4" width="70%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=normayp&theme=github-compact&hide_border=true&bg_color=1a0b2e&color=ff6ec4&line=b14eff&point=ffffff" width="90%"/>
@@ -86,61 +83,23 @@ normay@dev-machine:~$ _
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/normayp/normayp/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
-
-<!--
-NOTE: The snake animation above requires a GitHub Action to generate it.
-Add this workflow file to your profile repo at:
-.github/workflows/snake.yml
-
-name: generate animation
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: normayp
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<br/>
-
 ## 📬 Contacts
 
 <div align="center">
 
-<a href="mailto:normaypangan19p@gmail.com" target="_blank">
+<a href="mailto:normaypangan19p@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-C724B1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/normayp/" target="_blank">
+
+<a href="https://www.linkedin.com/in/normayp/" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-8338EC?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/_nnnormayp/" target="_blank">
+
+<a href="https://www.instagram.com/_nnnormayp/" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-FF6EC4?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://github.com/normayp" target="_blank">
+
+<a href="https://github.com/normayp" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-6A11CB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
