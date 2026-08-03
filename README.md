@@ -23,7 +23,7 @@ normay@dev-machine:~$ whoami --info
 ```yaml
 Name:      Normay Pangan
 Role:      Computer Engineer | Full-Stack Developer
-Location:  Philippines 🇵🇭
+Location:  Rizal, Philippines
 Status:    Available for opportunities & collaborations
 Focus:     Building responsive web apps & exploring new tech
 ```
