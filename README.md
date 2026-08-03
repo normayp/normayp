@@ -75,8 +75,10 @@ normay@dev-machine:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=normayp&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1a0b2e&title_color=ff6ec4&icon_color=b14eff&text_color=e0d4f7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=usermay&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1a0b2e&title_color=ff6ec4&icon_color=b14eff&text_color=e0d4f7" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normayp&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=ff6ec4&text_color=e0d4f7" height="165"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=normayp&theme=radical&hide_border=true&background=1a0b2e&ring=b14eff&fire=ff6ec4&currStreakLabel=ff6ec4" width="70%"/>
 
@@ -91,16 +93,13 @@ normay@dev-machine:~$ _
 
 <div align="center">
 
-<a href="mailto:normayp@example.com">
+<a href="mailto:normaypangan19p@example.com">
   <img src="https://img.shields.io/badge/Gmail-C724B1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/normayp/">
   <img src="https://img.shields.io/badge/LinkedIn-8338EC?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/normayp/">
-  <img src="https://img.shields.io/badge/Facebook-A239CA?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/normayp/">
+<a href="https://www.instagram.com/_nnnormayp/">
   <img src="https://img.shields.io/badge/Instagram-FF6EC4?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://github.com/normayp">
