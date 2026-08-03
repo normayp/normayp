@@ -91,7 +91,7 @@ normay@dev-machine:~$ _
   <img src="https://img.shields.io/badge/Gmail-C724B1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/normayp/" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/normay-pangan/" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-8338EC?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
